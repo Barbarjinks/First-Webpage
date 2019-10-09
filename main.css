@@ -2,6 +2,16 @@ ul {
  color:white;
 }
 
+article{
+  width: 60%;
+}
+
+main{
+  display: flex;
+  overflow: hidden;
+  justify-content: space-evenly;
+}
+
 img.resize {
     max-width:50%;
     max-height:50%;
@@ -9,4 +19,8 @@ img.resize {
 
   .header {
     background-color: dimgray;
+  }
+
+  aside{
+    width: 30%;
   }
