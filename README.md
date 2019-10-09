@@ -1,3 +1,3 @@
 # First-Webpage
 
-A projet to learn CSS
+A project to learn CSS
